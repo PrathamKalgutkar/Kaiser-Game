@@ -27,6 +27,6 @@ AUTOMATIC EDITING DATABASE
 IF YOU THINK MANUAL TECHNIQUE IS TOO COMPLEX FOR YOU, THEN DATABASE MODIFICATION PROGRAM COMES TO RESCUE
 
 Open database Program, use its interactive console to Show, add, delete the content of Database.txt
-After Using the program, Enter 'close' to end the program and you are done
+After Using the program, Enter 'close' to end the program and you are done.
 
 HOPE YOU HAVER A GREAT TIME WITH GAME

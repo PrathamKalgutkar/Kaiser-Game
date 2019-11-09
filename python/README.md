@@ -1,5 +1,5 @@
 # Kaiser-Game
-A simple Python Console-based Quiz Game and its Database Handler
+A simple Python Console-based Prussian History Quiz Game and its Database Handler
 
 This Game was made by Pratham Kalgutkar, as a Tutorial Program.
 
